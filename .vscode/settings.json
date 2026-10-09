@@ -1,0 +1,12 @@
+{
+  "deno.enable": true,
+  "deno.lint": true,
+  "deno.suggest.imports.hosts": {
+    "https://deno.land": true,
+    "https://jsr.io": true,
+    "https://esm.sh": true
+  },
+  "typescript.tsserver.enable": false,
+  "typescript.validate.enable": false,
+  "javascript.validate.enable": false
+}
